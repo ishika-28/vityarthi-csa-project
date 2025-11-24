@@ -1,11 +1,11 @@
 ## Diabetes Prediction Using Machine Learning
 ## Overview of the project
-This project will pridict diabetes risk for users by analysing features with the basic machine learning model. It helps the users to understand their risk factors and encourage early actions based on real data.
+This project will detect diabetes risk for the users by understanding features with the basic machine learning model. It helps the users to understand their risk and encourage early actions based on the data.
 ## Features
-1. Collects user inputs such as: age, weight, blood pressure, glucose and family history.
-2. Trains and test models on example data.
-3. It predicts whether a user is at risk for diabetes.
-4. Shows model accuracy and prediction results.
+1. It Collects user inputs such as: age, weight, blood pressure, glucose and family history.
+2. It trains and test the models on example data.
+3. It predicts that the user is at risk for diabetes or not.
+4. Shows the model accuracy and prediction results.
 ## Technologies/Tools used
  Python3
  pandas
@@ -20,9 +20,9 @@ This project will pridict diabetes risk for users by analysing features with the
    python_diabetes.py
 6. follow more prompts or review the output.
 ## Instructions for testing
-1. check the included sample code for example patient records.
+1. check the included sample code, for example patient records.
 2. Modify the data section to test with your own health feature values.
-3. Observe that how the predictions and the accuracy scores being changed.
+3. Observe that how the predictions and the accuracy scores are changing.
 ## Screenshot
 for output as follows:
 
