@@ -7,15 +7,15 @@ This project will detect diabetes risk for the users by understanding features w
 3. It predicts that the user is at risk for diabetes or not.
 4. Shows the model accuracy and prediction results.
 ## Technologies/Tools used
- Python3
- pandas
- scikit-learn
+1. Python3
+2. pandas
+3. scikit-learn
 ## Steps to install and run the project
 1. Download the project files.
 2. Install the required modules:
    pip install pandas scikit-learn
 3. make sure that the python3 is installed on machine.
-4. Open the terminal or pyhton IDE.
+4. Open the terminal or python IDE.
 5. Run the main script:
    python_diabetes.py
 6. follow more prompts or review the output.
