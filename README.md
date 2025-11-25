@@ -15,10 +15,7 @@ This project will detect diabetes risk for the users by understanding features w
 2. Install the required modules:
    pip install pandas scikit-learn
 3. make sure that the python3 is installed on machine.
-4. Open the terminal or python IDE.
-5. Run the main script:
-   python_diabetes.py
-6. follow more prompts or review the output.
+4. follow more prompts or review the output.
 ## Instructions for testing
 1. check the included sample code, for example patient records.
 2. Modify the data section to test with your own health feature values.
